@@ -52,7 +52,7 @@ The challenges focused on identifying weak implementations, misconfigurations, a
 
 📘 The complete detailed writeup is available here:
 
-👉 [MythX_CTF_Writeup.pdf](./MythX CTF Writeup.pdf) 
+👉 [MythX_CTF_Writeup.pdf](./MythX%20CTF%20Writeup.pdf) 
 
 ## 📊 CTF Stats
 
